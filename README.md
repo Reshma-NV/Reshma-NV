@@ -44,7 +44,7 @@ I am a results-driven QA professional with **3+ years of experience** in both **
 - ✅ Experience in writing and executing test cases, preparing traceability matrices, and performing peer reviews.
 - ✅ Hands-on experience with GitHub for version control and Intellij and eclipse as the primary development tool.
 - ✅ Familiar with Agile methodologies and actively participated in Scrum ceremonies.
-- ✅ Strong understanding of SDLC, STLC, and various testing methodologies including Functional, Regression, Smoke, and Integration testing.
+- ✅ Strong understanding of SDLC, STLC, and various testing methodologies including Smoke, Functional, Integration, and Regression testing.
 - ✅ Recognized as FY23 Q2 Best Performer at DXC Technology.
   
 ---
