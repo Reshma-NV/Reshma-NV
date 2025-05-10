@@ -41,10 +41,9 @@ I am a results-driven QA professional with **3+ years of experience** in both **
 - ✅ Developed and maintained robust automated test scripts using Selenium & Java.
 - ✅ Worked extensively with Postman for API testing and RestAssured.
 - ✅ Skilled in defect tracking and test management using tools like JIRA, QC, and Spira.
-- ✅ Familiar with Agile methodologies and actively participated in Scrum ceremonies.
 - ✅ Experience in writing and executing test cases, preparing traceability matrices, and performing peer reviews.
-- ✅ Strong understanding of SDLC, STLC, Agile methodologies.
 - ✅ Hands-on experience with GitHub for version control and Intellij and eclipse as the primary development tool.
+- ✅ Familiar with Agile methodologies and actively participated in Scrum ceremonies.
 - ✅ Strong understanding of SDLC, STLC, and various testing methodologies including Functional, Regression, Smoke, and Integration testing.
 - ✅ Recognized as FY23 Q2 Best Performer at DXC Technology.
   
