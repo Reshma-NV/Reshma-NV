@@ -8,20 +8,20 @@
 
 ## 🧪 About Me
 
-I'm a passionate and detail-oriented with **3+ years of hands-on experience** in both **manual** and **automation testing**. I have solid expertise in **Java**, **Selenium**, and **API testing** using **Postman** and **RestAssured**. I thrive in Agile environments and am passionate about delivering high-quality software solutions.
+I am a results-driven QA professional with **3+ years of experience** in both **manual** and **automation testing**. Skilled in designing and executing test cases, building robust automation frameworks using **Selenium WebDriver** with **Java**, and ensuring high-quality software delivery. I bring hands-on expertise in **API testing** (Postman), **Agile** practices, and defect management tools like **JIRA** and **QC**. Passionate about continuously improving testing processes and contributing to the success of fast-paced, agile teams.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-- 💻 **Languages**: Java
+- 💻 **Languages**: Java (Test Automation)
 - ⚙️ **Automation Tools**: Selenium WebDriver, TestNG
 - 🔍 **API Testing**: Postman, RestAssured
-- 📝 **Manual Testing**: Functional, Regression, Integration, Smoke & Sanity Testing
-- 🔄 **Version Control**: Git, GitHub
-- 🛠️ **Build Tools**: Maven
-- 📚 **Test Management**: JIRA.
+- 📝 **Testing Types**: Functional, Regression, Integration, Smoke & Sanity Testing
+- 🔄 **Tools & Platforms**: Git, Maven, GitHub, Jenkins, IntelliJ, Eclipse
+- 📚 **Test Management**: JIRA. HPQC, Spira
 - 📂 **Frameworks**: Page Object Model (POM), Data-Driven, Hybrid
+- 📄 **Test Documentation**: Test Plans, Test Cases, Bug Reports (Excel, JIRA)
 
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
