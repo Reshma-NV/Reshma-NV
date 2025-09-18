@@ -1,6 +1,6 @@
   # 👋 Hi, I'm Reshma N
 
-🎯 **Quality Analyst | 3+ Years Experience Automation Testing**  
+🎯 **Analyst III Quality Assurance | 3+ Years Experience Automation Testing**  
 💼 Currently working at **DXC Technology** | ISTQB Certified | AWS Cloud Practitioner  
 📍 Based in Bengaluru, India  
 
