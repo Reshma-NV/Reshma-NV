@@ -61,6 +61,7 @@ I am a results-driven QA professional with **3+ years of experience** in both **
 ## 📫 Contact Me
 
 📧 [reshmav2306@gmail.com](mailto:reshmav2306@gmail.com)  
+    https://www.linkedin.com/in/reshmanv/
 📱 +91 8050739022  
 
 
